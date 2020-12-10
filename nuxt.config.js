@@ -41,7 +41,7 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ["@/plugins/baseURL"],
+  plugins: ["@/plugins/baseURL",'~plugins/buefy.js'],
   /*
    ** Nuxt.js dev-modules 
    */
@@ -54,7 +54,7 @@ export default {
 
   modules: [
     // Doc: https://buefy.github.io/#/documentation
-    ["nuxt-buefy",{materialDesignIcons: true}],
+    //["nuxt-buefy",{materialDesignIcons: true}],
     "@nuxtjs/pwa",
     "nuxt-clipboard2",
     [

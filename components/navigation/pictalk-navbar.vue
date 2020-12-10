@@ -27,7 +27,6 @@
 				<div class="buttons">
 					<b-button
 						type="is-primary"
-						
 						@click="eraseSpeech()"
 						icon-right="home"
 					/>
