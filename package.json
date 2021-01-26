@@ -14,7 +14,7 @@
     "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/pwa": "^3.3.3",
     "@nuxtjs/sitemap": "^2.4.0",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "core-js": "^3.8.1",
     "jpegasus": "^1.16.1",
     "js-cookie": "^2.2.1",
